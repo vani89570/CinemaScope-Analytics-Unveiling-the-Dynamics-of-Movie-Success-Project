@@ -1,0 +1,2 @@
+# CinemaScope-Analytics-Unveiling-the-Dynamics-of-Movie-Success-Project
+A project analyzing Hollywood Insights Inc.'s movie dataset to uncover key factors behind film success. Using advanced Excel techniques, it explores trends in genres, financial performance, and the impact of directors and stars. An interactive dashboard presents insights for strategic decision-making in film production and marketing.
